@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFL61oCt0hDVg/profile-displaybackgroundimage-shrink_200_800/0/1694286432557?e=2147483647&v=beta&t=ZYVkPFUOgJCUb_PYXdHDCUHqjwFokA5GPUJqY-uA0iY)]
+![MasterHead](https://media.licdn.com/dms/image/D5616AQFL61oCt0hDVg/profile-displaybackgroundimage-shrink_200_800/0/1694286432557?e=2147483647&v=beta&t=ZYVkPFUOgJCUb_PYXdHDCUHqjwFokA5GPUJqY-uA0iY)
 <h1 align="center">Hi 👋, I'm Saristy Dadhwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
